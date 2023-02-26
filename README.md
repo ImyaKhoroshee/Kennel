@@ -28,7 +28,7 @@
 
 Решение:
 
-![UML_](https://user-images.githubusercontent.com/99797822/221422602-8c1c8ada-3603-4f7b-ac6c-f47ab09b6809.png)
+![UML](https://user-images.githubusercontent.com/99797822/221441469-a3d1f0a0-4b05-4f1c-a08c-a6d684388627.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья
 человека”
