@@ -62,7 +62,7 @@
 
 14.4 обучить животное новым командам
 
-Решение по пунктам 14.1 - 14.4: [Amimal Manager](https://github.com/ImyaKhoroshee/Kennel/tree/main/AnimalManager/Animals)
+Решение по пунктам 14.1 - 14.4 (C#, .NET 7.0, VS2022): [Amimal Manager](https://github.com/ImyaKhoroshee/Kennel/tree/main/AnimalManager/Animals)
 
 14.5 Реализовать навигацию по меню
 
