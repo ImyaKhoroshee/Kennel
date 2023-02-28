@@ -68,6 +68,8 @@
 
 Решение по пункту 14.5: [Navigation](https://github.com/ImyaKhoroshee/Kennel/blob/main/AnimalManager/Animals/View/MainView.cs)
 
+<img width="331" alt="Navigation" src="https://user-images.githubusercontent.com/99797822/221788489-4f7881af-687f-4d12-9655-2e967bf441e1.png"><img width="329" alt="Navigation1" src="https://user-images.githubusercontent.com/99797822/221789106-787d3efb-e49b-4b77-af2f-eeca3da5d149.png"><img width="329" alt="Navigation2" src="https://user-images.githubusercontent.com/99797822/221789540-2992702d-e407-484a-9a46-1713e3c22066.png">
+
 15. Создайте класс Счетчик, у которого есть метод add(), увеличивающий̆
 значение внутренней̆ int переменной̆ на 1 при нажатии “Завести новое
 животное” Сделайте так, чтобы с объектом такого типа можно было работать в
