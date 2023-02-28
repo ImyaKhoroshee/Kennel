@@ -1,0 +1,15 @@
+C:\Users\polt\source\repos\AnimalManager\Animals\bin\Debug\net7.0\Animals.exe
+C:\Users\polt\source\repos\AnimalManager\Animals\bin\Debug\net7.0\Animals.deps.json
+C:\Users\polt\source\repos\AnimalManager\Animals\bin\Debug\net7.0\Animals.runtimeconfig.json
+C:\Users\polt\source\repos\AnimalManager\Animals\bin\Debug\net7.0\Animals.dll
+C:\Users\polt\source\repos\AnimalManager\Animals\bin\Debug\net7.0\Animals.pdb
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.csproj.AssemblyReference.cache
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.AssemblyInfoInputs.cache
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.AssemblyInfo.cs
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.dll
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\refint\Animals.dll
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.pdb
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\Animals.genruntimeconfig.cache
+C:\Users\polt\source\repos\AnimalManager\Animals\obj\Debug\net7.0\ref\Animals.dll
